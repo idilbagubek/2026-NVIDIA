@@ -1,6 +1,6 @@
 # Product Requirements Document (PRD)
 
-**Project Name:** LABS-Solv-V1  
+**Project Name:** QSeedTabu-GPU  
 **Team Name:** LateCommers 
 **GitHub Repository:** [https://github.com/idilbagubek/2026-NVIDIA]
 
